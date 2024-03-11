@@ -10,15 +10,13 @@ The initial iteration of Panga emerged from an Invocation Pod -- a collaboration
 
 As part of this process, we created a pathway for inviting participats into the Panga network. From there, the goal is for Panga participants to self-organise - with the aid of the Panga tools - to practice collectivisng basic needs such as food, care, shelter, energy, transport, and safety. 
 
-The current process for inviting participants to join us in co-creating Panga involves providing an oppourtintiy for potential-participants to attend a [Panga Context-Setting Workshop](participating_in_panga/panga_workshop_intro.md).  This workshop aims to provide a shared set of foudnational concepts (such as our [values](participating_in_panga/panga_values.md), from which to build upon (and refashion) together. 
+Following our [Invitation Principles](panga-concepts/participating_in_panga/panga_invitation_principles.md), our current process for supporting people to join this network is to provide an oppourtintiy for potential-participants to attend a [Panga Context-Setting Workshop](panga-concepts/participating_in_panga/panga_workshop_intro.md). This workshop aims to provide a shared set of foundational concepts (such as our [values](panga-concepts/participating_in_panga/panga_values.md). For those who choose to become collaborators in future iterations of the Panga vision, there are multiple avenues for participation, including;
 
-After participating in a Panga Context-Setting Workshop, there are multiple avenues for contributing to Panga, including;
-
-  * Recharging with cozy hopepunk conversations at the [Panga Campfire](participating_in_panga/invitation_principles.md) and amplifying global examples of collective practices that we can learn from in our local contexts.
-  * Nourishing our interdependent relationships (e.g., by [hosting Panga Gatherings](participating_in_panga/hosting_gatherings.md))
-  * Exploring the potential of specific collectivist experiments (e.g. by [participating in Panga pod practices](participating_in_panga/pod_participation.md)) 
-  * Adapting Panga-hosted tools and processes to experiment with collectivist practices (see Panga-associated Collectives)
+  * Recharging with cozy hopepunk conversations at the [Panga Campfire](panga-concepts/participating_in_panga/panga_campfire.md) and amplifying global examples of collective practices that we can learn from in our local contexts.
+  * Nourishing our interdependent relationships (e.g., by attending and hosting [Panga Gatherings](panga-concepts/participating_in_panga/panga_gatherings.md))
+  * Exploring the potential of specific collectivist experiments (e.g. by participating in the [Panga Pods](panga-concepts/participating_in_panga/panga_pods.md) experiments) 
+  * Adapting Panga-hosted tools and processes to experiment with longer-term collectivist practices (see [Panga Collectives](panga-concepts/participating_in_panga/panga_collectives.md))
   * Stewarding the Panga vision and/or building the infrastructure to support this vision (see Panga Collectives)
-  * [Hosting a Panga Context-Setting Workshop](participating_in_panga/workshop_host_guidelines.md) to support recently invited participants join us in co-creating Panga
+  * [Hosting a Panga Context-Setting Workshop](panga-concepts/participating_in_panga/workshop_host_guidelines.md) to support recently invited participants join us in co-creating Panga
 
 
