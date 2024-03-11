@@ -6,13 +6,13 @@ We want something better than the individualist isolation, brutal unfairness and
 
 Sprouting from the cracks in late stage capitalism, Panga supports explorations of potential better futures - trying them out now to build better lives for ourselves, and helping develop models useful to others. It’s not a singular utopia, it’s a way of collaborating just enough to support multiple autonomous experiments and to connect with all the great projects that already exist.
 
-This iteration of Panga emerged from an Invocation Pod -- an exploration of the possiblity that we might invoke a network of people practicing various configurations of experimental approaches to collectivising basic needs. Building on this, we began collaborating on amplifying and developing technical and conceptual tools that reduce the barriers to these collective practices. In inviting more people to co-create a Panga network with us, we are seeking more collaboraters who are willing to join us in taking responsibility for creating and maintaining the supportive and respectful culture we are hoping to cultivate twithin and through Panga processes. 
+This iteration of Panga emerged from an Invocation Pod -- an exploration of the possibility that we might invoke a network of people practicing various configurations of experimental approaches to collectivising basic needs. Building on this, we began collaborating on amplifying and developing technical and conceptual tools that reduce the barriers to these collective practices. In inviting more people to co-create a Panga network with us, we are seeking more collaborators who are willing to join us in taking responsibility for creating and maintaining the supportive and respectful culture we are hoping to cultivate within and through Panga processes. 
 
 As part of this process, we have created a [Panga Context-Setting Workshop](panga-concepts/participating_in_panga/panga_workshop_intro.md) to outline the current set of foundational [values](panga-concepts/participating_in_panga/panga_values.md), concepts, and practices that we hope the Panga network will build upon.    
 
-With this shared foundation, we hope to develop various Panga processes and tools that will help us all to self-organise into multiple overlapping small-groups who can practice collectivisng basic needs such as food, care, shelter, energy, transport, and safety. 
+With this shared foundation, we hope to develop various Panga processes and tools that will help us all to self-organise into multiple overlapping small-groups who can practice collectivising basic needs such as food, care, shelter, energy, transport, and safety. 
 
-Additionally, for those who choose to become collaborators in future iterations of the Panga vision, there are multiple avenues for participation, including;
+Additionally, for those who choose to become collaborators in future iterations of the Panga vision, there are multiple avenues for participation, including:
 
   * Recharging with cozy hopepunk conversations at the [Panga Campfire](panga-concepts/participating_in_panga/panga_campfire.md) and amplifying global examples of collective practices that we can learn from in our local contexts.
   * Nourishing our interdependent relationships (e.g., by attending and hosting [Panga Gatherings](panga-concepts/participating_in_panga/panga_gatherings.md))
