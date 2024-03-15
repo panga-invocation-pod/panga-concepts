@@ -1,13 +1,13 @@
 # Panga Invitation Principles
  
-
 ## Invitation Context  
-The Panga vision is to connect the network of people who are experimenting with various approaches to collectively meeting daily needs such as food, care, shelter, energy, transport, and safety in our local areas.
+Panga aims to connect people who are experimenting with various approaches to collectively meeting daily needs such as food, care, shelter, energy, transport, and safety in our local areas.
 
-We want this Panga Network to grow at the speed of trust; to remain open to new participants while still functioning as a supportive space to gather and explore different approaches to collectivising basic needs. 
+We want these connections to grow at the speed of trust; to remain open to new participants while still functioning as a supportive space to gather and explore different approaches to collectivising basic needs. 
 
-In inviting participants into this emerging network, we are seeking collaborates who are willing to join us in taking responsibility for creating and maintaining the supportive and respectful culture we are hoping to cultivate through the idea of Panga.
+In inviting participants into this emerging network, we are seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the supportive and respectful culture we are hoping to cultivate through the idea of Panga.
 
+## Participating in Panga
 As part of cultivating a shared-context from which to connect around different forms of collective practices, the Panga Context-Setting Workshops was intended to offer a way to explore the emerging Panga idea before making an informed decision about participating further. For those keen to build on this Panga idea, we invite you to co-create a network to connect the network of people in our local areas who are experimenting with various approaches to collectively meeting daily needs such as food, care, shelter, energy, transport, and safety. As a starting point, we hope to cultivate the following participation pathways:
   * Recharging with cozy hopepunk conversations at the Panga Campfire 
   * Amplifying global examples of collective practices that we can learn from in our local contexts 
