@@ -1,4 +1,7 @@
 {
     "spellchecker.language": "en_GB-ise",
-    "spellchecker.suggestionSeverity": "Information"
+    "spellchecker.suggestionSeverity": "Information",
+    "spellchecker.ignoreWordsList": [
+        "unfamilar"
+    ]
 }
