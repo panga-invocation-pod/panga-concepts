@@ -32,7 +32,7 @@ These values reflect our theories of change:
 ## Participating in Panga
 For those who choose to become collaborators in future iterations of the Panga vision, we have seeded several participation avenues as a starting point:
 
-  * Recharging with cozy hopepunk conversations at the [Panga Campfire](/campfire/) and amplifying global examples of collective practices that we can learn from in our local contexts.
+  * Recharging with cozy hopepunk conversations at the [Panga Campfire](https://panga.network/campfire/) and amplifying global examples of collective practices that we can learn from in our local contexts.
   * Nourishing our interdependent relationships, including by attending and hosting [Panga Gatherings](panga-concepts/participating_in_panga/panga_gatherings.md) and participating in [Panga Pods](panga-concepts/participating_in_panga/panga_pods.md) to explore the potential areas for experimenting with collectivising specific sets of basic needs.
   * Adapting Panga tools and processes to experiment with longer-term efforts to collectivise specific sets of basic needs - see [Panga resources]() 
   * Contributing to those collectives stewarding the Panga vision and infrastructure - see [Panga Collectives](/panga-concepts/participating_in_panga/panga_collectives.md)
