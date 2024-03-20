@@ -24,9 +24,9 @@ Exploratory Pods: these Pods are typically formed for a fixed time-frame (e.g., 
   * Emergency Preparedness Pods: pods focused on the environmental safety aspects of our basic needs. For example, a pod formed with the intention of supporting each other in preparing for specific types of emergencies (fire, flood, etc.,).
   * Connection Pods: pods focused on the connection aspects of our basic needs. For example, a pod formed to explore different approaches to building intentional relationships as a foundation for more collectivist approaches to meeting our basic needs.
 
-While most Pods will form and disperse after one cycle of podding, some may choose to continue beyond the intial format. Examples include:  
-  * Exploratory Pod, cycle 2: when those in an exploratory pod make an explict agreement to continue for another 'round' of active podding in the same format as the intial round. 
-  * Collaboration Pods: a goal-focused collaboration that focus on implementing a specific 'next step' in collectiving a specific set of basic needs.
+While most Pods will form and disperse after one cycle of podding, some may choose to continue beyond the initial format. Examples include:  
+  * Exploratory Pod, cycle 2: when those in an exploratory pod make an explicit agreement to continue for another 'round' of active podding in the same format as the initial round. 
+  * Collaboration Pods: a goal-focused collaboration that focus on implementing a specific 'next step' in collectivising a specific set of basic needs.
   * Latent Pods: these pods are intended to persist over long time period of time with minimal process other than when a participant re-calls the group for short bursts of active podding 'as needed'. A non-exhaustive set of examples of Pods that might take this format include:
     Emergency Support Pods: formed by a caller who asks specific people to join who they would then call on for material and/or relational support during moments of crises and/or other personal emergency situations.
     Personal Accountability Pods: formed by a caller explicitly asking specific people (ideally, different people to those in their Support Pod) if they can call on them for support in taking accountability for contributing to violence, harm or, abuse (as soon after becoming aware of their role in the situation as possible). Different from most other pods, each person is encouraged to form their own Accountability Pod.
@@ -36,5 +36,5 @@ While most Pods will form and disperse after one cycle of podding, some may choo
 ## Example Panga Pods include:
 
     Panga Invocation Pod, cycle 1 (May-Dec 2023) - formed with the intention of exploring how to articulate a *something* that could support multi-house collective practices as a starting point to build upon with others
-    Panga Invocation Pod, cycle 2 (Jan 2024 - June 2024) - building on the articulated intentions, this was more of a 'collaboration pod' the focused on the goal of creating an inviation pathway for others to participate in co-creating the Panga network. 
+    Panga Invocation Pod, cycle 2 (Jan 2024 - June 2024) - building on the articulated intentions, this was more of a 'collaboration pod' the focused on the goal of creating an invitation pathway for others to participate in co-creating the Panga network. 
 
