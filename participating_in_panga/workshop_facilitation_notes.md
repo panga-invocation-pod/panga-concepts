@@ -18,7 +18,7 @@
   * Context & Aims 
     * slide 1 intro
     * slide 2 workshop aims
-    * slide 3 context
+    * slide 3 Panga context
   * Values & theories of change 
      * slide 4 Values
      * slide 5 Resilience through collectivism
