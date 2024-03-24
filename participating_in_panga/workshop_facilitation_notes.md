@@ -1,41 +1,38 @@
 # Panga Context Setting Workshop
 
-## Content Structure
-  * Context & Aims 
-  * Values & theories of change 
-  * Key concepts
-    * Collective practices
-    * Pluralistic Approaches to Collective Practices 
-    * Basic needs grounded in place
-    * Capacity for change
-    * Overlapping pluralist collectivism
+## Facilitation Prompts
+
+Activities:
+1. Brainstorming examples of experiments in...
+2.
+
+## Slide Structure
+
+* Intro
+  * Acknowledgement of country
+  * Introduction round
+  * Logistics
+  * Supporting your participation
+  * The idea in this talk have emerged in conversation with you all..
   * Panga
-    * The Panga Campfire 
-    * Participatory practices
-    * Invitation principles
-  
- ## Slide structure, approximate timeing, and presenter 
-  * Context & Aims 
-    * slide 1 intro
-    * slide 2 workshop aims
-    * slide 3 Panga context
-  * Values & theories of change 
-     * slide 4 Values
-     * slide 5 Resilience through collectivism
-     * slide 6 Think globally, act locally
-     * slide 7 Prefiguring better futures 
-  * Collective practices
-  * Pluralistic Approaches to Collective Practices 
-  * Basic needs grounded in place
-  * Capacity for change
+  * Workshop aims
+* Strategy
+  1. In **changing** times
+  2. In changing times we **prefigure** better futures
+  3. In changing times we prefigure better futures by **collectivising**
+  4. In changing times we prefigure better futures by collectivising to meet **basic needs**
+  5. In changing times we prefigure better futures by collectivising to meet basic needs, **grounded in place**
+* Project
+  * Invoking Panga
+  * Values & Theories of Change
+* Practice
   * Overlapping pluralist collectivism
-  * Panga
-    *  The Panga Campfire 
-    * Participatory practices
-    * Invitation principles
+  * (activity)
+* Participating
+  * Participation not membership
+  * Avenues for participation
+    * Experiments in supporting collectivism
+    * Using Panga resources in your own collective projects and providing feedback
+    * Campfire
+  * Further resources
 
-  ## Facilitation Prompts
-
-  Activities: 
-  1. Brainstorming examples of experiments in...
-  2.  
