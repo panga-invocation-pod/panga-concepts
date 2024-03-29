@@ -493,7 +493,7 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 </style>
 
 ---
-# (to be presented over multiple slides)
+# (HIDE SLIDE - see multiple slides for this section below)
 ## Participating
   * Participation not membership
   * Avenues for participation
@@ -505,6 +505,70 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 <style scoped>
   {text-align: left}
   {font-size: 1.30rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 325px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 40px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 25px;
+    color: #778899;
+  }
+</style>
+---
+## Participation not membership
+
+<!--
+
+
+-->
+
+<style scoped>
+  {text-align: center}
+  {font-size: 1.30rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 325px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 40px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 25px;
+    color: #778899;
+  }
+</style>
+---
+## Avenues for participation
+
+Using & adapting Panga  tools when experimenting with collectivising basic needs
+
+Participating in stewarding future iterations of Panga
+
+Recharging at a cosy hopeunk 'Campfire' <!-- see next slide-->
+
+<!-- 
+For now, our goal with Panga has been focused on curating, developing, and maintaing a set of technical and conceptual tools to support small groups experiment with collectivising basic needs. 
+
+We hope those small groups experimenting with collectivising basic needs that choose to use these tools will adapt them for their localised contexts and, in doing so, contribute to improving and expanding this set of resources.
+
+We also invite more direct participation in curating and maintating these resources for those interested in helping us steward future iterations of Panga.
+
+At the other end of the participation scale we're also interested in hosting a 'Campfire' conversation space for those seeking an avenue for recharging through explorations and celebrations of potential hopepunk futures - see next slide.
+
+-->
+
+<style scoped>
+  {text-align: center}
+  {font-size: 1.40rem;}
   {color: white}
   {padding: 100px}
   h3{
