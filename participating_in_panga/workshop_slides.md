@@ -524,17 +524,11 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ## Participation not membership
 
 <!--
-Panga is intended to be an idea maintained by a porously bounded group of participants, rather than a network or organisation you can join and claim 'membership' rights.
+In invoking Panga we are envisioning a project with multiple avenues for participation that, together, cultivate a focal point we can gather around to share high-context resources for exploring different approaches to collectivising basic needs. 
 
-In invoking the idea of Panga we are seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the respectful, interdependent relationships from which sustainable collective practices can emerge.
+Panga is intended to be maintained by a porous group of participants who collaborate in shaping our collective future, rather than a network or organisation you can join and claim 'membership' rights. For example, we expect a slowly changing group of participants to contribute as and when they have capacity, with existing participants only inviting new participants to contribute when have the capacity to support them in taking responsibility for creating and maintaining respectful, interdependent relationships and supporting multiple approaches to collective practices.
 
-
-We want Panga to function as a focal point we can gather around to share hihg-context resoruces for exploring different approaches to collectivising basic needs, while still remaining open to new participants. 
-
-To achieve this we envision Panga as a project with multiple avenues for participation that cultivate a focal point we can gather around to share high-context resoruces for exploring different approaches to collectivising basic needs. Rather than being a bounded group, we hope that the idea of Panga can 'grow at the rate of trust' with new participants being invited in as we have capacity to support them to participate in sustainable ways.
-
-
-An important aspect of this porously bounded group of Panga participants is the multiple avenues of participation we hope to cultivate. 
+An important aspect of this porous group of Panga participants is the multiple avenues of participation we hope to cultivate. 
 -->
 
 <style scoped>
