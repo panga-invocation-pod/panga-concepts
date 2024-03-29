@@ -524,14 +524,17 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ## Participation not membership
 
 <!--
-Panga is a project with multiple avenues for participation. I'll go through these in a moment. First, I want to emphasie that we aren't a membership-based group.
+Panga is intended to be an idea maintained by a porously bounded group of participants, rather than a 'network' that you can 'join', or an organisation from which you can claim 'membership' rights.
 
-While we invite others to help us steward future iterations of Panga, we also hope that people experimenting with collective practices can use and adapt the resources that we curate, develop, and maintatian as part of the Panga project - without necerssairly 'joining' Panga. 
+In invoking the idea of Panga we are seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the respectful, interdependent relationships from which sustainable collective practices can emerge.
 
-The porous boundaries of this vision of Panga participation are important; we want Panga to remain open to new participants while still functioning as a focal point we can gather around to share resoruces for exploring different approaches to collectivising basic needs. 
 
-We are therefore seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the respectful, interdependent relationships from which sustainable collective practices can emerge.
+We want Panga to function as a focal point we can gather around to share hihg-context resoruces for exploring different approaches to collectivising basic needs, while still remaining open to new participants. 
 
+To achieve this we envision Panga as a project with multiple avenues for participation that cultivate a focal point we can gather around to share high-context resoruces for exploring different approaches to collectivising basic needs. Rather than being a bounded group, we hope that the idea of Panga can 'grow at the rate of trust' with new participants being invited in as we have capacity to support them to participate in sustainable ways.
+
+
+An important aspect of this porously bounded group of Panga participants is the multiple avenues of participation we hope to cultivate. 
 -->
 
 <style scoped>
@@ -555,20 +558,23 @@ We are therefore seeking collaborators who are willing to join us in taking resp
 ---
 ## Avenues for participation
 
-Using & adapting Panga  tools when experimenting with collectivising basic needs
+# Decision-making Participation 
+Contributing to stewarding future iterations of Panga
 
-Participating in stewarding future iterations of Panga
+# Vision-enacting Participation
+Using & adapting Panga tools when experimenting with collectivising basic needs
 
+# Vision-nourishing Participation 
 Recharging at a cosy hopeunk 'Campfire' <!-- see next slide-->
 
 <!-- 
-One of our goals with Panga is to curate, develop, and maintain a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
+To explain the current avenues for participating in the Panga I'll focus on examples related to our goal of curating, developing, and maintaining a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
 
-We hope those small groups experimenting with collectivising basic needs that choose to use these tools will adapt them for their localised contexts and, in doing so, contribute to improving and expanding this set of resources.
+In relation to this goal, participation could involve the high-capacity involvement of contributing to the decision-making process of stewarding future iterations of Panga, such as helping to decide which tools to prioritise. 
 
-We also invite more direct participation in curating and maintating these resources for those interested in helping us steward future iterations of Panga.
+* We also want to encourage participation that helps to enact the vision of there being multiple experiments in collectivising basic needs in our local areas. For example, we invite people experimenting with collective practices to use and adapt the resources that we curate, develop, and maintatian as part of the Panga project - without needing to participate in the development or maintance of Panga resources. In doing so, these participants may also choose to contribute to improving and expanding this set of resources.
 
-At the other end of the participation scale we're also we are invoking a metaphorical Campfire to gather around and immerse in hopepunk conversations about potential better futures - see next slide.
+* At the same time, we often find that the dire state of the status quo world is so overwhelming that it can reduce our capacity to engage with anything beyond surviving from day to day. We know many others feel similarly, and so also want to allow space to nurture even the most minimal form of participation, such as via intermittent engagement in 'campfire' conversations.   
 
 -->
 
