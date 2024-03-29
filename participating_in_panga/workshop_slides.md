@@ -408,20 +408,57 @@ For today, the important point is that prefigurative politics play an important 
 ## Practice 
   * Overlapping pluralist collectivism
   * (activity)
+
+  <style scoped>
+  {font-size: 1.55rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 75px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 20px;
+    color: #778899;
+  }
+</style>
 ---
-# Overlapping Pluralist Collectivism
+## Overlapping Pluralist Collectivism
 to do
 
+<style scoped>
+  {font-size: 1.55rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 75px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 20px;
+    color: #778899;
+  }
+</style>
+
 ---
-## Brainstorming examples of experiments in collective practice that might...
+## Brainstorming Activity
+# Describe examples of how small groups might experiment with...
 
-* Reduce reliance on profit-driven providers of food and energy
+* Reducing reliance on profit-driven providers of food and energy
 
-* Reduce reliance on centralised saftey services 
+* Reducing reliance on centralised saftey services 
 
-* Move towards collective care responsibilities
+* Moving towards collective care responsibilities
 
-* Move towards collective stewardship of housing as shelter while returning land-governance to Indigenous custodians
+* Moving towards collective stewardship of housing as shelter while returning land-governance to Indigenous custodians
 
 <!-- 
 Facilitation notes....
