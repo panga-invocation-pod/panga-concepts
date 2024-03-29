@@ -524,7 +524,13 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ## Participation not membership
 
 <!--
+Panga is a project with multiple avenues for participation. I'll go through these in a moment. First, I want to emphasie that we aren't a membership-based group.
 
+While we invite others to help us steward future iterations of Panga, we also hope that people experimenting with collective practices can use and adapt the resources that we curate, develop, and maintatian as part of the Panga project - without necerssairly 'joining' Panga. 
+
+The porous boundaries of this vision of Panga participation are important; we want Panga to remain open to new participants while still functioning as a focal point we can gather around to share resoruces for exploring different approaches to collectivising basic needs. 
+
+We are therefore seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the respectful, interdependent relationships from which sustainable collective practices can emerge.
 
 -->
 
@@ -556,13 +562,13 @@ Participating in stewarding future iterations of Panga
 Recharging at a cosy hopeunk 'Campfire' <!-- see next slide-->
 
 <!-- 
-For now, our goal with Panga has been focused on curating, developing, and maintaing a set of technical and conceptual tools to support small groups experiment with collectivising basic needs. 
+One of our goals with Panga is to curate, develop, and maintain a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
 
 We hope those small groups experimenting with collectivising basic needs that choose to use these tools will adapt them for their localised contexts and, in doing so, contribute to improving and expanding this set of resources.
 
 We also invite more direct participation in curating and maintating these resources for those interested in helping us steward future iterations of Panga.
 
-At the other end of the participation scale we're also interested in hosting a 'Campfire' conversation space for those seeking an avenue for recharging through explorations and celebrations of potential hopepunk futures - see next slide.
+At the other end of the participation scale we're also we are invoking a metaphorical Campfire to gather around and immerse in hopepunk conversations about potential better futures - see next slide.
 
 -->
 
