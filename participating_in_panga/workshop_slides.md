@@ -524,7 +524,7 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ## Participation not membership
 
 <!--
-Panga is intended to be an idea maintained by a porously bounded group of participants, rather than a 'network' that you can 'join', or an organisation from which you can claim 'membership' rights.
+Panga is intended to be an idea maintained by a porously bounded group of participants, rather than a network or organisation you can join and claim 'membership' rights.
 
 In invoking the idea of Panga we are seeking collaborators who are willing to join us in taking responsibility for creating and maintaining the respectful, interdependent relationships from which sustainable collective practices can emerge.
 
