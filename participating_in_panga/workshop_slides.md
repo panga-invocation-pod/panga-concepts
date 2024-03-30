@@ -524,11 +524,14 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ## Participation not membership
 
 <!--
-In invoking Panga we are envisioning a project with multiple avenues for participation that, together, cultivate a focal point we can gather around to share high-context resources for exploring different approaches to collectivising basic needs. 
+The notion of Panga we are invoking is a dynamic participatory project fulled by high-context collaboration; not a network or organisation for which joining gives 'membership' rights. 
 
-Panga is intended to be maintained by a porous group of participants who collaborate in shaping our collective future, rather than a network or organisation you can join and claim 'membership' rights. For example, we expect a slowly changing group of participants to contribute as and when they have capacity, with existing participants only inviting new participants to contribute when have the capacity to support them in taking responsibility for creating and maintaining respectful, interdependent relationships and supporting multiple approaches to collective practices.
+By 'participatory' we mean that that the project-goals of Panga are intended to be maintained by a porous collection of people who collaborate via one or more of the avenues for collaborating on different approaches to collectivising basic needs.
 
-An important aspect of this porous group of Panga participants is the multiple avenues of participation we hope to cultivate. 
+Being 'dynamic', we expect that this collection of participants will slowly change over time as the ways in which different people choose when and how to participate (or not) will reflect fluctuating capacity and broader circumstances of those involved. 
+
+Being both a 'porous' and 'high-context' form of collaboration, we hope that existing participants support those they invite to collaborate to take responsibility for their role in creating and maintaining a culture of respectful, interdependent, high-trust relationships.
+
 -->
 
 <style scoped>
@@ -559,10 +562,15 @@ Contributing to stewarding future iterations of Panga
 Using & adapting Panga tools when experimenting with collectivising basic needs
 
 # Vision-nourishing Participation 
+Hosting & attending Gatherings
 Recharging at a cosy hopeunk 'Campfire' <!-- see next slide-->
 
 <!-- 
-To explain the current avenues for participating in the Panga I'll focus on examples related to our goal of curating, developing, and maintaining a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
+I mentioned that there were multiple potential avenues for participating in Panga's vision of collaborating on different approaches to collectivising basic needs.
+
+While some may choose to collaborate across all these avenues, others may choose one at a time, or some other combination. There may also be other avenues for participation that emerge over time. 
+
+For now, our way of conceptualising the different forms of participation can be understood in relation to our goal of curating, developing, and maintaining a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
 
 In relation to this goal, participation could involve the high-capacity involvement of contributing to the decision-making process of stewarding future iterations of Panga, such as helping to decide which tools to prioritise. 
 
