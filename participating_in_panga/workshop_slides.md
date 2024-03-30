@@ -523,6 +523,15 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 ---
 ## Participation not membership
 
+A participatory project 
+across dynamic relationships
+maintaing high-context collaboration
+on multiple approaches to reducing barriers 
+to collectivising basic needs
+
+
+# No membership 'rights'; shared responsibility   
+
 <!--
 The notion of Panga we are invoking is a dynamic participatory project fulled by high-context collaboration; not a network or organisation for which joining gives 'membership' rights. 
 
