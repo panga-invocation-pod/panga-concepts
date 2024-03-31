@@ -564,28 +564,35 @@ Being both a 'porous' and 'high-context' form of collaboration, we hope that exi
 ---
 ## Avenues for participation
 
-# Decision-making Participation 
-Contributing to stewarding future iterations of Panga
+# Invoking 
+Building infastructure to support collective experiments
+Co-creating future visions of *Panga*  
 
-# Vision-enacting Participation
-Using & adapting Panga tools when experimenting with collectivising basic needs
+# Practicing 
+Using & adapting tools that support collective practices
+Cultivating interdependent relationships
+Experimenting with collectivising basic needs
 
-# Vision-nourishing Participation 
-Hosting & attending Gatherings
-Recharging at a cosy hopeunk 'Campfire' <!-- see next slide-->
+# Nourishing  
+Hosting & attending gatherings
+Recharging with cosy hopeunk conversations 
 
 <!-- 
-I mentioned that there were multiple potential avenues for participating in Panga's vision of collaborating on different approaches to collectivising basic needs.
+We know that the dire state of the status quo world is so overwhelming it can be difficult to engage with anything beyond surviving from day to day.  
+
+To reduce this barrier to experimenting with collectivising our basic needs, we envision multiple avenues for participating in this thing we're calling Panga. 
+
+So, if the goal of our project is to support multiple experiments in collectivising basic needs, there we aim to cultivate at least three forms of participation. 
+
+The most obvious way to participate in Panga may be to help us invoke current and future iterations of Panga. In the current iteration, we are focusing on curating, developing, and maintaining a set of technical and conceptual tools to reduce the barriers to collective practices. Depending on whose involved, future iterations may explore supporting multiple approaches to collectivising basic needs in other ways.
+
+However, we also want to support the daily practice of experimenting with collectivising basic needs by inviting participatnts to use and adapt Panga resources even when they don't have capacity to contribute to developing & maintaining these resources.
+
+Likewise, we want to allow for more intermittent forms of participation that help to nourish our belief in the possibility of better futures via 'campfire conversations', and cultivate opportunities for building more interdependent relationships through regular gatherings. 
+
+While presented as if distinct, it is important to note that these forms of participation overlap and interact to  
 
 While some may choose to collaborate across all these avenues, others may choose one at a time, or some other combination. There may also be other avenues for participation that emerge over time. 
-
-For now, our way of conceptualising the different forms of participation can be understood in relation to our goal of curating, developing, and maintaining a set of technical and conceptual tools that reduce the barriers to forming multiple overlapping experiments in collective practices.
-
-In relation to this goal, participation could involve the high-capacity involvement of contributing to the decision-making process of stewarding future iterations of Panga, such as helping to decide which tools to prioritise. 
-
-* We also want to encourage participation that helps to enact the vision of there being multiple experiments in collectivising basic needs in our local areas. For example, we invite people experimenting with collective practices to use and adapt the resources that we curate, develop, and maintatian as part of the Panga project - without needing to participate in the development or maintance of Panga resources. In doing so, these participants may also choose to contribute to improving and expanding this set of resources.
-
-* At the same time, we often find that the dire state of the status quo world is so overwhelming that it can reduce our capacity to engage with anything beyond surviving from day to day. We know many others feel similarly, and so also want to allow space to nurture even the most minimal form of participation, such as via intermittent engagement in 'campfire' conversations.   
 
 -->
 
