@@ -1,11 +1,5 @@
 # Panga Context Setting Workshop
 
-## Facilitation Prompts
-
-Activities:
-1. Brainstorming examples of experiments in...
-2.
-
 ## Slide Structure
 
 * Intro

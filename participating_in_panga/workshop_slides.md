@@ -10,14 +10,15 @@ math: mathjax
 paginate: false
 
 ---
-
-![image of campfire1, bg %](../images/campfire1.png)
-
 <!-- 
-Speaking notes [example - adapt for presenter personality]
+* Intro
+  * Acknowledgement of country
+  * Introduction round
+  * Logistics
+  * Supporting your participation
 
-[acknowledgement of country] 
-
+## Acknowledgement of country Example Speaking Notes
+## Introdution Example Speaking Notes
 Thank you all for being here today - hopefully you've picked up a bit of the context for why we're here today from Yam Daisy. 
 
 So I'd like to beign with a circle around the room so everyone has a chance to introduce themselves and settle into the space a bit.
@@ -25,16 +26,52 @@ So I'd like to beign with a circle around the room so everyone has a chance to i
 There will be more oppourtinties to talk with each other later, for now please just share:  
 - names / pronouns / and what land you're arriving from.
 - And, complete the sentence "One characteristic of my vision of a better future is...."
-
-Example: 
-- Hi, I'm Teq, I live locally on Wurundjuri county, and I'm they for pronouns. "One characteristic of my vision of a better future is... a greater appreciation for the time and energy it takes to build networks of nourishing interdependent relationships".
-
 [ACTIVITY]
-
 Thank you all for sharing. Now I'd like to run through what you can expect for our time together today. 
+
+## Logistics Example Speaking Notes 
+
+## Supporting your participation Example Speaking Notes
+
+-->
+![image of campfire1, bg %](../images/campfire1.png)
+
+---
+## *Panga* 
+
+> Supporting experimental approaches to collectively meeting our basic needs of food, shelter, care, safety, energy, and transport"
+
+
+<!-- 
+Panga Example Speaking Notes
+
+So, this thing we're calling Panga emerged within the context of Jade and/or I having had conversations with many of you, as well as others in our various networks around various approaches to collaborative housing, food cooperatives, and collective approaches to care. 
+
+At some point in 2023 we decided to collaborate on finding ways to connect these conversations and support the various initatives as they emerge. 
+
+We'll go into more details later, but for now it is enough to know that the goal we've decided to focus on is "supporting experimental approaches to collectively meeting our basic needs of food, shelter, care, saftey, energy, and transport".
+
+Before we get to the details of *how* and *why* we aim to support these experiments, it is important to draw attention to the specific values and dense concepts this goal draws upon. 
 
 -->
 
+<style scoped>
+  {font-size: 1.95rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 85px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 40px;
+    color: #778899;
+  }
+</style>
 ---
 ##  Workshop Aims 
 
@@ -46,16 +83,17 @@ Thank you all for sharing. Now I'd like to run through what you can expect for o
 
 
 <!-- 
-Speaking notes...
+Workshop Aims Example Speaking Notes
 
-* So our reasons for preparing this workshop were threefold: 
-  1. Our main goal is to invite ongoing conversations and collaborations that can build upon a shared context    
-  2. We aim to provide this shared context by sharing some of the key concepts that we hope to build upon with Panga 
-  3. We also hope that this workshop opens up more oppourtunities for you each to connect with others who are intersted in experimenting with collectivising one or more of their basic needs.
+So our reasons for preparing this workshop were to invite ongoing conversations and collaborations that can build upon a shared context    
 
-In terms of structure, we'll begin with a presentation to introducing this thing we're calling Panga, outline the values and theories of change that we've identified as motiviating our participation in Panga so far, and summarising some of the key concepts that we're hoping to build on in the future.
+We aim to provide this shared context by sharing some of the key concepts that we hope to build upon with Panga 
 
-Along the way we'll ask you to participate in a few thought-experiment type activities in small groups. Then, after we've finished the presentation and main activities, we'll open up space for further less-structured discussions. 
+We also hope that this workshop opens up more oppourtunities for you each to connect with others who are intersted in experimenting with collectivising one or more of their basic needs.
+
+In terms of structure, we'll begin by contextualising the change-making stratergies we're focusing on. We'll then talk about Panga in detail - both in as a project with specific values and theories of change, and as a practice we invite others to participate in.  
+
+Then, after we've finished the presentation and main activities, we'll open up space for further less-structured discussions. 
 
 -->
 
@@ -78,27 +116,15 @@ Along the way we'll ask you to participate in a few thought-experiment type acti
 </style>
 
 ---
-## *Panga* 
-
-> Supporting experimental approaches to collectively meeting our basic needs of food, shelter, care, safety, energy, and transport"
-
-
-<!-- 
-Speaking notes....
-
-So, this thing we're calling Panga emerged within the context of Jade and/or I having had conversations with many of you, as well as others in our various networks around various approaches to collaborative housing, food cooperatives, and collective approaches to care. 
-
-At some point in 2023 e deciding to collaborate on finding ways to connect these conversations and support the various initatives as they emerge. 
-
-We'll go into more details later, but for now it is enough to know that the goal we've decided to focus on is "supporting experimental approaches to collectively meeting our basic needs of food, shelter, care, saftey, energy, and transport".
-
-Before we get to the details of *how* and *why* we aim to support these experiments, it is important to draw attention to the specific values and dense concepts this goal draws upon. 
-
--->
+# Overview (hide slide)
+### Stratergy 
+### Project
+### Practice
+### Participation
 
 
 <style scoped>
-  {font-size: 1.95rem;}
+  {font-size: 1.55rem;}
   {color: white}
   {padding: 100px}
   h3{
@@ -106,7 +132,7 @@ Before we get to the details of *how* and *why* we aim to support these experime
     color: #f5f5f5;
   }
   h2{
-    font-size: 85px;
+    font-size: 75px;
     color: #00c200;
   }
   h1{
@@ -114,28 +140,89 @@ Before we get to the details of *how* and *why* we aim to support these experime
     color: #778899;
   }
 </style>
----
 
-![Image of cover art for book titled 'A Psalm for the Wild Built, by Becky Chambers, bg width: 75% ](../images/bookcover1.png)
-![Commons Image, bg width: 100%](../images/commons1.png)
-![Overton Window Image, bg width: 80%](../images/overton-window.png)
+---
+# (to be presented over multiple slides)
+## Strategy 
+  1. In **changing** times
+  2. In changing times we **prefigure** better futures
+  3. In changing times we prefigure better futures by **collectivising**
+  4. In changing times we prefigure better futures by collectivising to meet **basic needs**
+  5. In changing times we prefigure better futures by collectivising to meet basic needs, **grounded in place**
+
 <style scoped>
+  {font-size: 1.55rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 75px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 20px;
+    color: #778899;
+  }
 </style>
+---
+# (to be presented over multiple slides)
+## Project
+  * Invoking Panga
+  * Values & Theories of Change
+
+<style scoped>
+  {font-size: 1.55rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 75px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 20px;
+    color: #778899;
+  }
+</style>
+---
+## Invoking Panga
+
+> In changing times 
+**how can we support experiments** that prefigure better futures by collectivising to meet basic needs grounded in place 
+
+![Panga skiff, bg right width 85%](../images/panga-skiff1.png)
 
 <!-- 
-Speaking notes: 
-Inevitably, there will also be some values and concepts we're treating as either as background context and/or potential tangents  
-
-So if we use any unfamilar terms let us know. We'll do our best to clarify background concepts on the fly and suggest some resources that provide more detail on the potential tangents.  
-
-For example, while the 'Overton Window' and 'Commons' are a background concepts we might reference in passing and can clarify if needed, explaining our choice of the term 'Panga' for this project could lead to tangents... 
-  (Tangent: our use of the term was chosen based on it's use for the world described in the 'Monk and Robot' series of speculative fiction books written by Becky Chambers. Panga is, of course, a polysemous word - even in English it's multiple meanings include a specific type of fish, type of boat, and a type of knife.... ) 
+Speaking notes....
 
 -->
 
----
+<style scoped>
+  {font-size: 1.55rem;}
+  {color: white}
+  {padding: 35px}
+  h3{
+    font-size: 35px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 65px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 40px;
+    color: #778899;
+  }
+</style>
 
-## Values 
+---
+## Values
 Grounded  
 Interdependent 
 Prefigurative
@@ -317,90 +404,61 @@ For today, the important point is that prefigurative politics play an important 
 </style>
 
 ---
-## *Panga* 
+# (to be presented over multiple slides)
+## Practice 
+  * Overlapping pluralist collectivism
+  * (activity)
 
-> Supporting experimental approaches to collectively meeting our basic needs of food, shelter, care, safety, energy, and transport"
-![Panga skiff, bg right width 85%](../images/panga-skiff1.png)
-
-<!-- 
-Speaking notes....
-
-With that context in mind, I want to bring these concepts together so we can return to our goals with Panga.
--->
-
-<style scoped>
-  {font-size: 1.40rem;}
+  <style scoped>
+  {font-size: 1.55rem;}
   {color: white}
-  {padding: 35px}
+  {padding: 100px}
   h3{
     font-size: 35px;
     color: #f5f5f5;
   }
   h2{
-    font-size: 65px;
+    font-size: 75px;
     color: #00c200;
   }
   h1{
-    font-size: 40px;
+    font-size: 20px;
     color: #778899;
   }
 </style>
-
 ---
+## Overlapping Pluralist Collectivism
+to do
 
-## Collectivising basic needs grounded in place
-* Collectivising: moving towards more collective governance of the production and distribution of common resources 
-
-* Grounded in place: variations in local conditions may impact collective governace of relevant common resources 
-
-* Basic needs: regularly occuring needs we expect to meet in our shared location 
-### *Food, Shelter, Care, Safety, Energy & Transport*
-
-<!-- 
-Speaking notes....
-
-While we might conceptualise 'basic needs' in other ways, we've chosen to focus on six needs we consider 'basic' based on three considerations: 
-
-1. We could potentially more towards more collective governance of the production and distribution of relevant resources required to meet this neeed without breaking any local laws
-
-2. For most people in our location, the need likely repeats regularly and it is ther responsibiltiy of each adult to meet that need (and those of any dependents) 
-
-3. Potential variations in local conditions could potentially impact the desisions made about the production and distribution of relevant resources  
-
-Question prep note: we considered 'livelihood' as a basic need but narrowed our focus given that the Enspiral network already provides support for those looking to meet thier 'livelihood' in ways that contribute to our collective well-being.
-
-
--->
 <style scoped>
-  {text-align: centre}
-  {font-size: 1.60rem;}
+  {font-size: 1.55rem;}
   {color: white}
-  {padding: 75px}
+  {padding: 100px}
   h3{
-    font-size: 28px;
+    font-size: 35px;
     color: #f5f5f5;
-    padding: 0.01px
   }
   h2{
-    font-size: 45px;
+    font-size: 75px;
     color: #00c200;
-    padding: 0.1px
   }
   h1{
-    font-size: 28px;
+    font-size: 20px;
     color: #778899;
   }
 </style>
+
 ---
-## Brainstorming examples of experiments in collective practice that might...
+## Brainstorming Activity
+# Describe examples of how small groups might experiment with...
 
-* Reduce reliance on profit-driven providers of food and energy
+* Reducing reliance on profit-driven providers of food and energy
 
-* Reduce reliance on centralised saftey services 
+* Reducing reliance on centralised saftey services 
 
-* Move towards collective care responsibilities
+* Moving towards collective care responsibilities
 
-* Move towards collective stewardship of housing as shelter while returning land-governance to Indigenous custodians
+* Moving towards collective stewardship of housing as shelter while returning land-governance to Indigenous custodians
 
 <!-- 
 Facilitation notes....
@@ -435,135 +493,127 @@ ACTIVITY: Organise participants into four groups, and ask them to brainstom pote
 </style>
 
 ---
-## Capacity for change
- 
-<!-- 
-Speaking notes....
--->
-<style scoped>
-  {text-align: centre}
-  {font-size: 1.60rem;}
-  {color: white}
-  {padding: 140px}
-  h3{
-    font-size: 35px;
-    color: #f5f5f5;
-  }
-  h2{
-    font-size: 40px;
-    color: #00c200;
-  }
-  h1{
-    font-size: 25px;
-    color: #778899;
-  }
-</style>
----
-## Pluralist approaches to collectively meeting our basic needs 
-
-
-<!-- 
-Speaking notes....
-
-* Pluralism: 
-  * We aim to support experiments in a wide range of different approaches to collectiving basic needs. 
-  * We don't expect that there is any single 'right' way to collectively governing resources that will be appropriate for all local contexts.  
-
--->
+# (HIDE SLIDE - see multiple slides for this section below)
+## Participating
+  * Participation not membership
+  * Avenues for participation
+    * Experiments in supporting collectivism
+    * Using Panga resources in your own collective projects and providing feedback
+    * Campfire
+  * Further resources
 
 <style scoped>
-  {font-size: 1.60rem;}
-  {color: white}
-  {padding: 80px}
-  h3{
-    font-size: 35px;
-    color: #f5f5f5;
-  }
-  h2{
-    font-size: 40px;
-    color: #00c200;
-  }
-  h1{
-    font-size: 25px;
-    color: #778899;
-  }
-</style>
-
-
----
-
-## Overlapping Pluralist Collectivism
-* content 
-
-<!-- 
-Speaking notes....
--->
-
-<style scoped>
-  {font-size: 1.60rem;}
-  {color: white}
-  {padding: 80px}
-  h3{
-    font-size: 35px;
-    color: #f5f5f5;
-  }
-  h2{
-    font-size: 40px;
-    color: #00c200;
-  }
-  h1{
-    font-size: 25px;
-    color: #778899;
-  }
-</style>
-
----
-
-## Panga  
-
-> Supporting experimental approaches to collectively meeting our basic needs of shelter, food, energy, transport, and care
-
-<!-- 
-Speaking notes....
-
-As mentioned earlier, Panga is a project that aims to support experimental approaches to collectively meeting our basic needs. 
-
-While it begain from discussions about how to meet our collective housing and food need, we started thinking about the shared challanges faced by people trying to collectively govern shared resources across needs beyond housing and food. 
-
-To build on that notion we decided to collaborate on developing some infastructure to support a range of different concrete efforts to collective an increasing list of potential basic needs.
-
-We slowly narrowed in on what we think is a feasbile goal for a project with zero funds and, as yet, only two of us involed. 
-
-There are multiple directions we could take the project from here, depending on how our vision for Panga develops as more collaborators get involved. 
-
-* So far, we have focused on amplifying and developing conceptual and technical tools that could reduce the barriers to forming and participating in small self-governing groups able to experiment with different approaches to collectivising basic needs.
-
-* For example, today we are offer some concepts that we hope will provide  shared context for further conversations as part of an early-stage of conceptual tool development. 
-
-* An example of technical tools is the *Panga Campfire* that has the potential to support people to connect with others interested in participating in experimental approaches to collectivising basic needs. 
-
- 
--->
-
-
-<style scoped>
-  {font-size: 1.95rem;}
+  {text-align: left}
+  {font-size: 1.30rem;}
   {color: white}
   {padding: 100px}
   h3{
-    font-size: 35px;
+    font-size: 325px;
     color: #f5f5f5;
   }
   h2{
-    font-size: 85px;
+    font-size: 40px;
     color: #00c200;
   }
   h1{
-    font-size: 40px;
+    font-size: 25px;
     color: #778899;
   }
 </style>
+---
+## Participation not membership
 
+A participatory project 
+across dynamic relationships
+maintaing high-context collaboration
+on multiple approaches to reducing barriers 
+to collectivising basic needs
+
+
+# No membership 'rights'; shared responsibility   
+
+<!--
+The notion of Panga we are invoking is a dynamic participatory project fulled by high-context collaboration; not a network or organisation for which joining gives 'membership' rights. 
+
+By 'participatory' we mean that that the project-goals of Panga are intended to be maintained by a porous collection of people who collaborate via one or more of the avenues for collaborating on different approaches to collectivising basic needs.
+
+Being 'dynamic', we expect that this collection of participants will slowly change over time as the ways in which different people choose when and how to participate (or not) will reflect fluctuating capacity and broader circumstances of those involved. 
+
+Being both a 'porous' and 'high-context' form of collaboration, we hope that existing participants support those they invite to collaborate to take responsibility for their role in creating and maintaining a culture of respectful, interdependent, high-trust relationships.
+
+-->
+
+<style scoped>
+  {text-align: center}
+  {font-size: 1.30rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 325px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 40px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 25px;
+    color: #778899;
+  }
+</style>
+---
+## Avenues for participation
+
+# Invoking 
+Building infastructure to support collective experiments
+Co-creating future visions of *Panga*  
+
+# Practicing 
+Using & adapting tools that support collective practices
+Cultivating interdependent relationships
+Experimenting with collectivising basic needs
+
+# Nourishing  
+Hosting & attending gatherings
+Recharging with cosy hopeunk conversations 
+
+<!-- 
+We know that the dire state of the status quo world is so overwhelming it can be difficult to engage with anything beyond surviving from day to day.  
+
+To reduce this barrier to experimenting with collectivising our basic needs, we envision multiple avenues for participating in this thing we're calling Panga. 
+
+So, if the goal of our project is to support multiple experiments in collectivising basic needs, there we aim to cultivate at least three forms of participation. 
+
+The most obvious way to participate in Panga may be to help us invoke current and future iterations of Panga. In the current iteration, we are focusing on curating, developing, and maintaining a set of technical and conceptual tools to reduce the barriers to collective practices. Depending on whose involved, future iterations may explore supporting multiple approaches to collectivising basic needs in other ways.
+
+However, we also want to support the daily practice of experimenting with collectivising basic needs by inviting participatnts to use and adapt Panga resources even when they don't have capacity to contribute to developing & maintaining these resources.
+
+Likewise, we want to allow for more intermittent forms of participation that help to nourish our belief in the possibility of better futures via 'campfire conversations', and cultivate opportunities for building more interdependent relationships through regular gatherings. 
+
+While presented as if distinct, it is important to note that these forms of participation overlap and interact to  
+
+While some may choose to collaborate across all these avenues, others may choose one at a time, or some other combination. There may also be other avenues for participation that emerge over time. 
+
+-->
+
+<style scoped>
+  {text-align: center}
+  {font-size: 1.40rem;}
+  {color: white}
+  {padding: 100px}
+  h3{
+    font-size: 325px;
+    color: #f5f5f5;
+  }
+  h2{
+    font-size: 40px;
+    color: #00c200;
+  }
+  h1{
+    font-size: 25px;
+    color: #778899;
+  }
+</style>
 ---
 
 ## 
@@ -594,36 +644,7 @@ Speaking notes....
     color: #778899;
   }
 </style>
-
 ---
-
-## Participatory practices
-* 
-<!-- 
-Speaking notes....
-
-We also want to invite others to adapt the emerging Panga tools and processes to experiment with collectivising specific sets of basic needs, and/or participate in co-creating the next iteration of Panga with us.
-
-
--->
-<style scoped>
-  {font-size: 1.60rem;}
-  {color: white}
-  {padding: 80px}
-  h3{
-    font-size: 35px;
-    color: #f5f5f5;
-  }
-  h2{
-    font-size: 40px;
-    color: #00c200;
-  }
-  h1{
-    font-size: 25px;
-    color: #778899;
-  }
-</style>
-
 ---
 ## Invitation principles
 
@@ -693,3 +714,44 @@ Speaking notes....
     color: #778899;
   }
 </style>
+
+---
+<!-- 
+Unsorted notes: 
+
+Pluralism: We aim to support experiments in a wide range of different approaches to collectiving basic needs.  We don't expect that there is any single 'right' way to collectively governing resources that will be appropriate for all local contexts.  
+
+The Panga 'Campfire' is intended as a virtual space to gather and recharge with cozy hopepunk conversations. We're using 'conversations' loosly here. While some may choose to engage in conversations and connect with potential collaborates for upcomming local experiements in collectivisng basic needs, the intention is to provide a space to read and share examples of how people are experimenting in collectivising basic needs.  
+
+We also want to invite others to adapt the emerging Panga tools and processes to experiment with collectivising specific sets of basic needs, and/or participate in co-creating the next iteration of Panga with us.
+
+Inevitably, there will also be some values and concepts we're treating as either as background context and/or potential tangents  
+
+So if we use any unfamilar terms let us know. We'll do our best to clarify background concepts on the fly and suggest some resources that provide more detail on the potential tangents.  
+
+For example, while the 'Overton Window' and 'Commons' are a background concepts we might reference in passing and can clarify if needed, explaining our choice of the term 'Panga' for this project could lead to tangents... 
+  (Tangent: our use of the term was chosen based on it's use for the world described in the 'Monk and Robot' series of speculative fiction books written by Becky Chambers. Panga is, of course, a polysemous word - even in English it's multiple meanings include a specific type of fish, type of boat, and a type of knife.... ) 
+
+## Collectivising basic needs grounded in place
+* Collectivising: moving towards more collective governance of the production and distribution of common resources 
+
+* Grounded in place: variations in local conditions may impact collective governace of relevant common resources 
+
+* Basic needs: regularly occuring needs we expect to meet in our shared location 
+### *Food, Shelter, Care, Safety, Energy & Transport*
+
+Speaking notes....
+
+While we might conceptualise 'basic needs' in other ways, we've chosen to focus on six needs we consider 'basic' based on three considerations: 
+
+1. We could potentially more towards more collective governance of the production and distribution of relevant resources required to meet this neeed without breaking any local laws
+
+2. For most people in our location, the need likely repeats regularly and it is ther responsibiltiy of each adult to meet that need (and those of any dependents) 
+
+3. Potential variations in local conditions could potentially impact the desisions made about the production and distribution of relevant resources  
+
+Question prep note: we considered 'livelihood' as a basic need but narrowed our focus given that the Enspiral network already provides support for those looking to meet thier 'livelihood' in ways that contribute to our collective well-being.
+
+
+
+  -->
